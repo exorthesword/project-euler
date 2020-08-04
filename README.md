@@ -1,2 +1,2 @@
 # project-euler
-problems for this really cool site https://projecteuler.net/
+my programs for problems at this really cool site https://projecteuler.net/
